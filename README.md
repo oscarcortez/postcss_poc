@@ -33,3 +33,5 @@ export default {
 
 to generate css with postcss: 
 npm run css:build
+
+source: https://www.youtube.com/watch?v=_ZecWI4_jyU&t=28s
